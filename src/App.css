@@ -1,0 +1,28 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+}
+
+.a-dev{
+    text-decoration: none;
+}
+
+
+.h4-t1{
+    background-color: #fff;
+}
+
+.h4-t1:hover{
+    background-color: #00ffff;
+}
+
+.btn-guardar{
+    background-color: #00ffff;
+    border-radius: 5px;
+    border: #00ffff;
+    margin: 5px;
+}
+
+.btn-guardar:hover{
+background-color: #fff;
+}
